@@ -60,11 +60,12 @@
                 2. 检查是否存在 `nginx` 这个用户组，没有就添加
         * `/application/nginx/sbin/nginx` 启动
     + 确定是否启动(查看进程)
-        * ` ps -ef | grep nginx`
-    
+        
+    * ` ps -ef | grep nginx`
+        
     + 如果安装 nginx 被安装完，仍然不能访问则考虑是否添加了安全规则，开放了80端口。  
-    ！[](security.png)
-
+![](./image/security.png)
+    
 - # 域名绑定
 - # mysql安装
     + ## 二进制安装方式  
@@ -268,5 +269,5 @@
     + php-fpm
 
 
-    
+​    
 
