@@ -58,9 +58,9 @@
 
 - ##### 查看docker是否安装成功 `docker -v`
 
-- ##### 下载镜像 `docker pull <镜像名:tag> `
+- ##### 卸载docker `yum -y remove docker-engine`
 
-
+  ##### 
 
 - 参考博客
   - [linux安装docker](https://www.jianshu.com/p/2dae7b13ce2f)
