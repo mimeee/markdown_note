@@ -60,7 +60,13 @@
 
 - ##### 卸载docker `yum -y remove docker-engine`
 
-  ##### 
+  
+
+## Mac docker 安装
+
+- `brew cask install docker` 
+
+##### 
 
 - 参考博客
   - [linux安装docker](https://www.jianshu.com/p/2dae7b13ce2f)
